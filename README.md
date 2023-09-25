@@ -6,4 +6,5 @@ Instructions (use the "or" version if Oh My ZSH is installed):
 - `cd ~/.config/nvim/plugins`
 - `git init`
 - `git remote add` or `gra origin https://github.com/dlcmh/dakerr-lazyvim-plugins`
+- `git fetch --all --prune` or `gfa`
 - `git reset origin/$(git_current_branch) --hard` or `groh`
